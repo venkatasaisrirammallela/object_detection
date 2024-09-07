@@ -56,7 +56,7 @@ Imports: Includes necessary libraries for Streamlit, OpenCV, NumPy, and PIL.
 Model Loading: Loads YOLOv4-Tiny model and weights.
 Image Processing: Handles image upload, preprocessing, object detection, and bounding box drawing.
 UI Components: Implements Streamlit components for file upload, image display, and image download.
-Example
+
 
 Image processed with YOLOv4-Tiny.
 
@@ -68,20 +68,6 @@ YOLOv4-Tiny model and COCO dataset
 Streamlit for building interactive web applications
 OpenCV for computer vision tasks
 PIL for image processing
-Contact
-For any questions or issues, please open an issue on the GitHub repository.
-
-vbnet
-Copy code
-
-### Notes:
-
-- Replace `path/to/example_image.jpg` with the path to an example image in your repository or provide a relevant image URL.
-- Update the `GitHub repository` link with the actual URL to your repository.
-- Make sure the `LICENSE` file is present in your repository if you mention it in the README.
-
-Feel free to adjust the README content based on any additional details specific to your project or preferences!
-
 
 
 
